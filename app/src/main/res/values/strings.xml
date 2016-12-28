@@ -993,7 +993,7 @@
     <string name="translation_summary">Help me translate this app!</string>
 
     <string name="modification">Modified build for CrazySuperKernel</string>
- +    <string name="modification_summary">This application is being heavily modified for CrazySuperKernel. Check it out in the downloads section!</string> 
+    <string name="modification_summary">This application is being heavily modified for CrazySuperKernel. Check it out in the downloads section!</string> 
 
     <string name="modification_version">Modification Version</string>
     <string name="modification_version_number" translatable="false">Build %d</string>
